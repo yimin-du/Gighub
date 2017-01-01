@@ -1,4 +1,4 @@
-﻿using GigHub.Models;
+﻿using Gighub.Models;
 using Microsoft.AspNet.Identity.EntityFramework;
 using System;
 using System.Collections.Generic;

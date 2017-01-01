@@ -1,11 +1,10 @@
 ﻿using System.Linq;
-using GigHub.Models;
+using Gighub.Models;
 using Microsoft.AspNet.Identity;
 using System.Web.Http;
 using Gighub.Dtos;
-using Gighub.Models;
 
-namespace GigHub.Controllers
+namespace Gighub.Controllers
 {
     [Authorize]
     public class AttendancesController : ApiController

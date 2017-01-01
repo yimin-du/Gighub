@@ -1,4 +1,4 @@
-﻿namespace GigHub.Dtos
+﻿namespace Gighub.Dtos
 {
     public class FollowingDto
     {
