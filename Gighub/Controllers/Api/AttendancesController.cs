@@ -4,7 +4,7 @@ using Microsoft.AspNet.Identity;
 using System.Web.Http;
 using Gighub.Dtos;
 
-namespace Gighub.Controllers
+namespace Gighub.Controllers.Api
 {
     [Authorize]
     public class AttendancesController : ApiController
