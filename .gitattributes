@@ -62,5 +62,5 @@
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
 
-./Gighub/Scripts/* linguist-vendored
+Gighub/Scripts/* linguist-vendored
 
